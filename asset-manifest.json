@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kang_CMSC125-MP3/static/css/main.0b6e2de6.css",
+    "main.js": "/Kang_CMSC125-MP3/static/js/main.92782018.js",
+    "static/js/787.3d7a92b2.chunk.js": "/Kang_CMSC125-MP3/static/js/787.3d7a92b2.chunk.js",
+    "index.html": "/Kang_CMSC125-MP3/index.html",
+    "main.0b6e2de6.css.map": "/Kang_CMSC125-MP3/static/css/main.0b6e2de6.css.map",
+    "main.92782018.js.map": "/Kang_CMSC125-MP3/static/js/main.92782018.js.map",
+    "787.3d7a92b2.chunk.js.map": "/Kang_CMSC125-MP3/static/js/787.3d7a92b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b6e2de6.css",
+    "static/js/main.92782018.js"
+  ]
+}
